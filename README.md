@@ -17,29 +17,35 @@
 
 ---
 
-## ⚡ Stack Tecnológico
+<h2 align="center">⚡ Stack Tecnológico</h2>
 
-### Web & Frontend
+<h3 align="center">Web & Frontend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Backend & Bases de Datos
+<br>
+
+<h3 align="center">Backend & Bases de Datos</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,java,spring" />
 </p>
 
-### Sistemas, Lenguajes y Herramientas
+<br>
+
+<h3 align="center">Sistemas, Lenguajes y Herramientas</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,vercel,linux" />
 </p>
 
+<br>
+
 ---
 
-## 🚀 Proyectos Destacados
+<h2 align="center">🚀 Proyectos Destacados</h2>
 
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
@@ -50,7 +56,7 @@
 
 ---
 
-## 🧩 Proyectos Web & SaaS
+<h2 align="center">🧩 Proyectos Web & SaaS</h2>
 
 ### 🏠 GestiDomus
 
@@ -93,7 +99,7 @@ Proyecto orientado a ayudar a restaurantes locales a mejorar su presencia digita
 
 ---
 
-## 🎓 Proyectos Académicos
+<h2 align="center">🎓 Proyectos Académicos</h2>
 
 ### ♟️ DeustoChess
 
@@ -127,7 +133,7 @@ Sistema cliente-servidor desarrollado en C para consultar y gestionar datos rela
 
 ---
 
-## 👨‍💻 Sobre mí
+<h2 align="center">👨‍💻 Sobre mí</h2>
 
 Soy estudiante de Ingeniería Informática en la Universidad de Deusto, con interés en el desarrollo de aplicaciones web, productos SaaS y soluciones digitales con utilidad real.
 
@@ -144,7 +150,7 @@ Actualmente estoy centrado en:
 
 ---
 
-## 📚 Actualmente aprendiendo
+<h2 align="center">📚 Actualmente aprendiendo</h2>
 
 - Desarrollo full-stack moderno
 - Java Spring Boot
@@ -155,16 +161,7 @@ Actualmente estoy centrado en:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugofdez-10&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugofdez-10&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 📫 Contacto
+<h2 align="center">📫 Contacto</h2>
 
 <p align="center">
   <a href="mailto:hugofdezdiez@gmail.com">
