@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:hugofdezdiez@gmail.com">hugofdezdiez@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/hugo-fern%C3%A1ndez-d%C3%ADez-0572843b6/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/hugo-fernandez-diez/">LinkedIn</a> ·
   <a href="https://github.com/hugofdez10">GitHub</a>
 </p>
 
@@ -199,7 +199,7 @@ Actualmente estoy centrado en:
   <a href="mailto:hugofdezdiez@gmail.com">
     <img src="https://img.shields.io/badge/Email-hugofdezdiez%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hugo-fern%C3%A1ndez-d%C3%ADez-0572843b6/">
+  <a href="https://www.linkedin.com/in/hugo-fernandez-diez/">
     <img src="https://img.shields.io/badge/LinkedIn-Hugo%20Fernández-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/hugofdez10">
