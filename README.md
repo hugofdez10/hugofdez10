@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hugo%20Fernández&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
 <h1 align="center">Hugo Fernández</h1>
 
 <h3 align="center">
@@ -17,25 +13,27 @@
   <a href="https://www.linkedin.com/in/hugo-fern%C3%A1ndez-d%C3%ADez-0572843b6/">LinkedIn</a>
 </p>
 
+<br>
+
 ---
 
 ## ⚡ Stack Tecnológico
 
 ### Web & Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Backend & Bases de Datos
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,java,spring" />
 </p>
 
 ### Sistemas, Lenguajes y Herramientas
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,vercel,linux" />
 </p>
 
@@ -168,7 +166,7 @@ Actualmente estoy centrado en:
 
 ## 📫 Contacto
 
-<p>
+<p align="center">
   <a href="mailto:hugofdezdiez@gmail.com">
     <img src="https://img.shields.io/badge/Email-hugofdezdiez%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -181,8 +179,4 @@ Actualmente estoy centrado en:
 
 <p align="center">
   <i>Construyendo proyectos reales mientras aprendo, mejoro y convierto ideas en software.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
 </p>
