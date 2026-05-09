@@ -49,9 +49,9 @@
 
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
-| 🏠 [GestiDomus](https://github.com/hugofdez-10/GestiDomus) | Next.js · Supabase · TypeScript | SaaS para la gestión de inmuebles, contratos, pagos, incidencias y generación de recibos en PDF. |
-| ♟️ [DeustoChess](https://github.com/hugofdez-10/DeustoChess) | Java | Proyecto académico de ajedrez con lógica de juego, gestión de piezas y arquitectura orientada a objetos. |
-| 🌍 [DeustoAir](https://github.com/hugofdez-10/DeustoAir) | C · Cliente-Servidor | Sistema para la gestión y consulta de datos de calidad del aire mediante arquitectura cliente-servidor. |
+| 🏠 [GestiDomus](https://github.com/hugofdez10/GestiDomus) | Next.js · Supabase · TypeScript | SaaS para la gestión de inmuebles, contratos, pagos, incidencias y generación de recibos en PDF. |
+| ♟️ [DeustoChess](https://github.com/hugofdez10/DeustoChess) | Java | Proyecto académico de ajedrez con lógica de juego, gestión de piezas y arquitectura orientada a objetos. |
+| 🌍 [DeustoAir](https://github.com/hugofdez10/DeustoAir) | C · Cliente-Servidor | Sistema para la gestión y consulta de datos de calidad del aire mediante arquitectura cliente-servidor. |
 | 🍽️ Santander Gastro Digital | Next.js · React · Tailwind | Proyecto de digitalización para restaurantes: landing web, presencia online, Google Business Profile y sistemas QR/NFC. |
 
 ---
