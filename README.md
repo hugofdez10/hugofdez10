@@ -44,7 +44,7 @@
 |---|---|---|
 | 🏠 [GestiDomus](https://github.com/hugofdez10/GestiDomus) | Next.js · Supabase · TypeScript | SaaS de gestión inmobiliaria para administrar inmuebles, contratos, pagos, incidencias y recibos. 🔗 [Demo](https://gestidomus-os.vercel.app/dashboard) |
 | 🇺🇸 [SummerStash](https://github.com/hugofdez10/SummerStash) | Next.js · React · TypeScript | App de finanzas personales para una experiencia Work & Travel en USA. 🔗 [Demo](https://summerstash.netlify.app/) |
-| 🍽️ [SantanderGastroDigital](https://github.com/hugofdez10/SantanderGastroDigital) | Next.js · React · Tailwind CSS | Landing de servicios digitales para restaurantes: presencia web, Google Business Profile y sistemas QR/NFC para reseñas. |
+| 🍽️ [SantanderGastroDigital](https://github.com/hugofdez10/SantanderGastroDigital) | Next.js · React · Tailwind CSS | Landing de servicios digitales para restaurantes: presencia web, Google Business Profile y sistemas QR/NFC para reseñas. 🔗 [Demo](https://santander-gastro-digital.vercel.app/) |
 | ✅ [HugosProductivity](https://github.com/hugofdez10/HugosProductivity) | JavaScript · Web App | Aplicación personal de productividad para tareas, planificación y hábitos. 🔗 [Demo](https://hugosproductivity.netlify.app/) |
 | 🌍 [DeustoAir](https://github.com/hugofdez10/DeustoAir) | C · Cliente-Servidor | Proyecto académico colaborativo para gestionar y consultar datos de calidad del aire. |
 | ♟️ [DeustoChess](https://github.com/hugofdez10/DeustoChess) | Java | Proyecto académico de ajedrez centrado en programación orientada a objetos y lógica de juego. |
@@ -104,6 +104,8 @@ Landing page y proyecto de servicios digitales para restaurantes en Santander.
 Ayudar a restaurantes locales a mejorar su presencia digital mediante una web profesional, optimización de Google Business Profile y sistemas QR/NFC para conseguir más reseñas.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Vercel
+
+🔗 Demo: [santander-gastro-digital.vercel.app](https://santander-gastro-digital.vercel.app/)
 
 📩 Contacto del proyecto: [santandergastrodigital@gmail.com](mailto:santandergastrodigital@gmail.com)
 
