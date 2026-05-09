@@ -5,15 +5,14 @@
 </h3>
 
 <p align="center">
-  💻 Desarrollo Web · 🏠 SaaS · 🧠 IA aplicada · ⚙️ Sistemas y Backend
+  Desarrollo Web · SaaS · IA aplicada · Sistemas y Backend
 </p>
 
 <p align="center">
   <a href="mailto:hugofdezdiez@gmail.com">hugofdezdiez@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/hugo-fern%C3%A1ndez-d%C3%ADez-0572843b6/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/hugo-fern%C3%A1ndez-d%C3%ADez-0572843b6/">LinkedIn</a> ·
+  <a href="https://github.com/hugofdez10">GitHub</a>
 </p>
-
-<br>
 
 ---
 
@@ -25,23 +24,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-<br>
-
 <h3 align="center">Backend & Bases de Datos</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,java,spring" />
 </p>
 
-<br>
-
-<h3 align="center">Sistemas, Lenguajes y Herramientas</h3>
+<h3 align="center">Lenguajes, herramientas y despliegue</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,vercel,linux" />
 </p>
-
-<br>
 
 ---
 
@@ -49,10 +42,12 @@
 
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
-| 🏠 [GestiDomus](https://github.com/hugofdez10/GestiDomus) | Next.js · Supabase · TypeScript | SaaS para la gestión de inmuebles, contratos, pagos, incidencias y generación de recibos en PDF. |
-| ♟️ [DeustoChess](https://github.com/hugofdez10/DeustoChess) | Java | Proyecto académico de ajedrez con lógica de juego, gestión de piezas y arquitectura orientada a objetos. |
-| 🌍 [DeustoAir](https://github.com/hugofdez10/DeustoAir) | C · Cliente-Servidor | Sistema para la gestión y consulta de datos de calidad del aire mediante arquitectura cliente-servidor. |
-| 🍽️ Santander Gastro Digital | Next.js · React · Tailwind | Proyecto de digitalización para restaurantes: landing web, presencia online, Google Business Profile y sistemas QR/NFC. |
+| 🏠 [GestiDomus](https://github.com/hugofdez10/GestiDomus) | Next.js · Supabase · TypeScript | SaaS de gestión inmobiliaria para administrar inmuebles, contratos, pagos, incidencias y recibos. |
+| 🇺🇸 [SummerStash](https://github.com/hugofdez10/SummerStash) | Next.js · React · TypeScript | App de finanzas personales para una experiencia Work & Travel en USA: ingresos, gastos, presupuestos y objetivos de ahorro. |
+| 🍽️ [SantanderGastroDigital](https://github.com/hugofdez10/SantanderGastroDigital) | Next.js · React · Tailwind CSS | Landing de servicios digitales para restaurantes: presencia web, Google Business Profile y sistemas QR/NFC para reseñas. |
+| ✅ [HugosProductivity](https://github.com/hugofdez10/HugosProductivity) | JavaScript · Web App | Aplicación personal de productividad para gestionar tareas, planificación, hábitos y organización diaria. |
+| 🌍 [DeustoAir](https://github.com/hugofdez10/DeustoAir) | C · Cliente-Servidor | Proyecto académico colaborativo para gestionar y consultar datos de calidad del aire. |
+| ♟️ [DeustoChess](https://github.com/hugofdez10/DeustoChess) | Java | Proyecto académico de ajedrez centrado en programación orientada a objetos y lógica de juego. |
 
 ---
 
@@ -64,15 +59,14 @@ Plataforma SaaS para la gestión de propiedades en alquiler.
 
 **Funcionalidades principales:**
 
-- Gestión de inmuebles
-- Gestión de contratos
-- Control de pagos mensuales
-- Registro de incidencias
-- Generación de recibos PDF
-- Panel de control con métricas
-- Backend con Supabase
-- Gestión documental y almacenamiento de archivos
-- Automatización de procesos administrativos
+- Gestión de inmuebles.
+- Gestión de contratos.
+- Control de pagos mensuales.
+- Registro de incidencias.
+- Generación de recibos PDF.
+- Panel de control con métricas.
+- Backend con Supabase.
+- Gestión documental y almacenamiento de archivos.
 
 **Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Vercel
 
@@ -80,56 +74,87 @@ Plataforma SaaS para la gestión de propiedades en alquiler.
 
 ---
 
-### 🍽️ Santander Gastro Digital
+### 🇺🇸 SummerStash
 
-Proyecto orientado a ayudar a restaurantes locales a mejorar su presencia digital y conseguir más visibilidad online.
+Aplicación web para gestionar el dinero durante una experiencia Work & Travel en Estados Unidos.
 
-**Servicios planteados:**
+**Funcionalidades principales:**
 
-- Webs modernas para restaurantes
-- Optimización de Google Business Profile
-- Sistemas QR/NFC para conseguir reseñas
-- Landing page comercial
-- Integración con Calendly y contacto directo
-- Diseño enfocado a negocios locales
+- Control de ingresos.
+- Gastos previos al viaje.
+- Gastos diarios en USA.
+- Presupuestos por categoría.
+- Objetivos de ahorro.
+- Dinero reservado para viajes y experiencias.
+- Fondo de emergencia.
+- Dashboard visual y mobile-first.
 
-**Stack:** Next.js · React · Tailwind CSS
+**Stack:** Next.js · React · TypeScript · Supabase · Tailwind CSS
+
+---
+
+### 🍽️ SantanderGastroDigital
+
+Landing page y proyecto de servicios digitales para restaurantes en Santander.
+
+**Objetivo del proyecto:**
+
+Ayudar a restaurantes locales a mejorar su presencia digital mediante una web profesional, optimización de Google Business Profile y sistemas QR/NFC para conseguir más reseñas.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Vercel
 
 📩 Contacto del proyecto: [santandergastrodigital@gmail.com](mailto:santandergastrodigital@gmail.com)
 
 ---
 
-<h2 align="center">🎓 Proyectos Académicos</h2>
+### ✅ HugosProductivity
 
-### ♟️ DeustoChess
+Aplicación web personal de productividad enfocada en organización diaria, planificación y hábitos.
 
-Proyecto desarrollado en Java enfocado en la programación orientada a objetos, estructuras de datos y lógica de juego.
+**Funcionalidades principales:**
 
-**Aspectos trabajados:**
+- Gestión de tareas.
+- Organización diaria.
+- Planificación personal.
+- Seguimiento de hábitos.
+- Interfaz simple y práctica.
 
-- Diseño orientado a objetos
-- Gestión de piezas y tablero
-- Lógica de movimientos
-- Separación de responsabilidades
-- Estructura modular del proyecto
-
-**Tecnologías:** Java
+**Stack:** JavaScript · Web App
 
 ---
 
+<h2 align="center">🎓 Proyectos Académicos</h2>
+
 ### 🌍 DeustoAir
 
-Sistema cliente-servidor desarrollado en C para consultar y gestionar datos relacionados con la calidad del aire.
+Proyecto académico colaborativo desarrollado para la gestión y consulta de datos de calidad del aire mediante una arquitectura cliente-servidor.
 
 **Aspectos trabajados:**
 
-- Programación en C
-- Arquitectura cliente-servidor
-- Gestión de datos
-- Comunicación entre procesos
-- Organización modular del código
+- Programación en C.
+- Arquitectura cliente-servidor.
+- Gestión de datos.
+- Comunicación entre procesos.
+- Organización modular del código.
+- Trabajo colaborativo mediante GitHub.
 
-**Tecnologías:** C · Sockets · Cliente-Servidor
+**Tecnologías:** C · Cliente-Servidor
+
+---
+
+### ♟️ DeustoChess
+
+Proyecto académico desarrollado en Java, centrado en la programación orientada a objetos y la lógica de un juego de ajedrez.
+
+**Aspectos trabajados:**
+
+- Diseño orientado a objetos.
+- Gestión de piezas y tablero.
+- Lógica de movimientos.
+- Separación de responsabilidades.
+- Estructura modular del proyecto.
+
+**Tecnologías:** Java
 
 ---
 
@@ -137,27 +162,28 @@ Sistema cliente-servidor desarrollado en C para consultar y gestionar datos rela
 
 Soy estudiante de Ingeniería Informática en la Universidad de Deusto, con interés en el desarrollo de aplicaciones web, productos SaaS y soluciones digitales con utilidad real.
 
-Me gusta construir proyectos que no se queden solo en código, sino que resuelvan problemas concretos: desde plataformas de gestión hasta herramientas para negocios locales.
+Me gusta crear proyectos que no se queden solo en código, sino que intenten resolver problemas concretos: desde plataformas de gestión hasta herramientas para negocios locales, productividad personal o experiencias reales como Work & Travel.
 
 Actualmente estoy centrado en:
 
-- Desarrollo web con Next.js, React y TypeScript
-- Backend y bases de datos con Supabase y PostgreSQL
-- Aplicaciones SaaS
-- Automatización con IA
-- Mejora de arquitectura y experiencia de usuario
-- Desarrollo de proyectos reales aplicables a empresas y usuarios
+- Desarrollo web con Next.js, React y TypeScript.
+- Backend y bases de datos con Supabase y PostgreSQL.
+- Aplicaciones SaaS.
+- Automatización e integración de IA en flujos de desarrollo.
+- Mejora de arquitectura, diseño y experiencia de usuario.
+- Desarrollo de proyectos reales aplicables a empresas y usuarios.
 
 ---
 
 <h2 align="center">📚 Actualmente aprendiendo</h2>
 
-- Desarrollo full-stack moderno
-- Java Spring Boot
-- Arquitectura de software
-- Bases de datos relacionales
-- Despliegue de aplicaciones web
-- Integración de IA en flujos de desarrollo
+- Desarrollo full-stack moderno.
+- Java Spring Boot.
+- Arquitectura de software.
+- Bases de datos relacionales.
+- Despliegue de aplicaciones web.
+- Buenas prácticas con Git, GitHub y Vercel.
+- Integración de IA en procesos de desarrollo.
 
 ---
 
@@ -169,6 +195,9 @@ Actualmente estoy centrado en:
   </a>
   <a href="https://www.linkedin.com/in/hugo-fern%C3%A1ndez-d%C3%ADez-0572843b6/">
     <img src="https://img.shields.io/badge/LinkedIn-Hugo%20Fernández-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/hugofdez10">
+    <img src="https://img.shields.io/badge/GitHub-hugofdez10-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
