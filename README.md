@@ -1,4 +1,4 @@
-<h1 align="center">Hugo Fernández</h1>
+<h1 align="center">Hugo Fernández Díez</h1>
 
 <h3 align="center">
   Estudiante de Ingeniería Informática · Universidad de Deusto
