@@ -42,10 +42,10 @@
 
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
-| 🏠 [GestiDomus](https://github.com/hugofdez10/GestiDomus) | Next.js · Supabase · TypeScript | SaaS de gestión inmobiliaria para administrar inmuebles, contratos, pagos, incidencias y recibos. |
-| 🇺🇸 [SummerStash](https://github.com/hugofdez10/SummerStash) | Next.js · React · TypeScript | App de finanzas personales para una experiencia Work & Travel en USA: ingresos, gastos, presupuestos y objetivos de ahorro. |
+| 🏠 [GestiDomus](https://github.com/hugofdez10/GestiDomus) | Next.js · Supabase · TypeScript | SaaS de gestión inmobiliaria para administrar inmuebles, contratos, pagos, incidencias y recibos. 🔗 [Demo](https://gestidomus-os.vercel.app/dashboard) |
+| 🇺🇸 [SummerStash](https://github.com/hugofdez10/SummerStash) | Next.js · React · TypeScript | App de finanzas personales para una experiencia Work & Travel en USA. 🔗 [Demo](https://summerstash.netlify.app/) |
 | 🍽️ [SantanderGastroDigital](https://github.com/hugofdez10/SantanderGastroDigital) | Next.js · React · Tailwind CSS | Landing de servicios digitales para restaurantes: presencia web, Google Business Profile y sistemas QR/NFC para reseñas. |
-| ✅ [HugosProductivity](https://github.com/hugofdez10/HugosProductivity) | JavaScript · Web App | Aplicación personal de productividad para gestionar tareas, planificación, hábitos y organización diaria. |
+| ✅ [HugosProductivity](https://github.com/hugofdez10/HugosProductivity) | JavaScript · Web App | Aplicación personal de productividad para tareas, planificación y hábitos. 🔗 [Demo](https://hugosproductivity.netlify.app/) |
 | 🌍 [DeustoAir](https://github.com/hugofdez10/DeustoAir) | C · Cliente-Servidor | Proyecto académico colaborativo para gestionar y consultar datos de calidad del aire. |
 | ♟️ [DeustoChess](https://github.com/hugofdez10/DeustoChess) | Java | Proyecto académico de ajedrez centrado en programación orientada a objetos y lógica de juego. |
 
@@ -91,6 +91,8 @@ Aplicación web para gestionar el dinero durante una experiencia Work & Travel e
 
 **Stack:** Next.js · React · TypeScript · Supabase · Tailwind CSS
 
+🔗 Demo: [summerstash.netlify.app](https://summerstash.netlify.app/)
+
 ---
 
 ### 🍽️ SantanderGastroDigital
@@ -120,6 +122,8 @@ Aplicación web personal de productividad enfocada en organización diaria, plan
 - Interfaz simple y práctica.
 
 **Stack:** JavaScript · Web App
+
+🔗 Demo: [hugosproductivity.netlify.app](https://hugosproductivity.netlify.app/)
 
 ---
 
@@ -182,7 +186,7 @@ Actualmente estoy centrado en:
 - Arquitectura de software.
 - Bases de datos relacionales.
 - Despliegue de aplicaciones web.
-- Buenas prácticas con Git, GitHub y Vercel.
+- Buenas prácticas con Git, GitHub, Vercel y Netlify.
 - Integración de IA en procesos de desarrollo.
 
 ---
