@@ -240,7 +240,7 @@ Proyecto académico desarrollado en Java, centrado en la programación orientada
 
 Soy estudiante de Ingeniería Informática en la Universidad de Deusto, con interés en el desarrollo de aplicaciones web, productos SaaS y soluciones digitales con utilidad real.
 
-Me gusta crear proyectos que no se queden solo en código, sino que intenten resolver problemas concretos: desde plataformas de gestión hasta herramientas para empresas, productividad personal o experiencias reales como Work & Travel.
+Me gusta crear proyectos que no se queden solo en código, sino que intenten resolver problemas concretos: desde plataformas de gestión hasta herramientas para empresas, productividad personal o experiencias reales como mi estancia en Estados Unidos donde fui seleccionado por la directora de recursos humanos para desarrollar más software para la empresa debido a una solución de software que desarrollé para el supervisor de los alojamientos ya que me eligió como asistente residente, me ocupaba de cubrir su lugar cuando no estaba y en ayudarle en lo que fuera necesario.
 
 Actualmente estoy centrado en:
 
@@ -256,11 +256,9 @@ Actualmente estoy centrado en:
 <h2 align="center">📚 Actualmente aprendiendo</h2>
 
 - Desarrollo full-stack moderno.
-- Java Spring Boot.
 - Arquitectura de software.
 - Bases de datos relacionales.
 - Despliegue de aplicaciones web.
-- Buenas prácticas con Git, GitHub, Vercel y Netlify.
 - Integración de IA en procesos de desarrollo.
 
 ---
