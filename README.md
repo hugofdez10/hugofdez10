@@ -113,6 +113,8 @@ Sistema web para organizar las reservas del transporte semanal a Walmart durante
 
 🔗 Web: [walmart-shuttle.vercel.app](https://walmart-shuttle.vercel.app/)
 
+🔒 Repositorio privado.
+
 ---
 
 ### ✅ HugosProductivity
