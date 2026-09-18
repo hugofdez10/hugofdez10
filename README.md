@@ -27,7 +27,7 @@
 <h3 align="center">Backend & Bases de Datos</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,java,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,java" />
 </p>
 
 <h3 align="center">Lenguajes, herramientas y despliegue</h3>
