@@ -93,8 +93,6 @@ Aplicación web creada para presentar y organizar un servicio de barbería dentr
 
 🔗 Web: [samosetbarbershop.vercel.app](https://samosetbarbershop.vercel.app/)
 
-🔒 Repositorio privado.
-
 ---
 
 ### 🚌 W&T Walmart Shuttle
