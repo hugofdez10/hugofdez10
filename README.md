@@ -91,7 +91,7 @@ Aplicación web creada para presentar y organizar un servicio de barbería dentr
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Vercel
 
-🔗 Demo: [samosetbarbershop.vercel.app](https://samosetbarbershop.vercel.app/)
+🔗 Web: [samosetbarbershop.vercel.app](https://samosetbarbershop.vercel.app/)
 
 🔒 Repositorio privado.
 
@@ -113,9 +113,7 @@ Sistema web para organizar las reservas del transporte semanal a Walmart durante
 
 **Stack:** Next.js · React · TypeScript · Supabase · Tailwind CSS · Vercel
 
-🔗 Demo: [walmart-shuttle.vercel.app](https://walmart-shuttle.vercel.app/)
-
-🔒 Repositorio privado.
+🔗 Web: [walmart-shuttle.vercel.app](https://walmart-shuttle.vercel.app/)
 
 ---
 
@@ -133,7 +131,6 @@ Aplicación web personal de productividad enfocada en organización diaria, plan
 
 **Stack:** JavaScript · Web App
 
-🔗 Demo: [hugosproductivity.netlify.app](https://hugosproductivity.netlify.app/)
 
 ---
 
