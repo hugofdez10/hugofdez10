@@ -42,13 +42,10 @@
 
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
-| 🏠 [GestiDomus](https://gestidomus-os.vercel.app/dashboard) | Next.js · Supabase · TypeScript | SaaS de gestión inmobiliaria para administrar inmuebles, contratos, pagos, incidencias y recibos. Repositorio privado. |
-| 💼 [F&B Digital Studio](https://github.com/hugofdez10/F-B-Digital-Studio) | Next.js · React · TypeScript | Estudio digital orientado al desarrollo web, automatización y soluciones digitales para empresas. 🔗 [Demo](https://fbdigitalstudios.vercel.app/) |
-| 🇺🇸 [SummerStash](https://github.com/hugofdez10/SummerStash) | Next.js · React · TypeScript | App de finanzas personales para una experiencia Work & Travel en USA. 🔗 [Demo](https://summerstash.netlify.app/) |
-| 💈 [Samoset Barbershop](https://samosetbarbershop.vercel.app/) | Next.js · React · TypeScript | Aplicación web para presentar y gestionar un servicio de barbería dentro de Samoset. Repositorio privado. |
-| 🚌 [W&T Walmart Shuttle](https://walmart-shuttle.vercel.app/) | Next.js · Supabase · TypeScript | Sistema de reservas y gestión de plazas para el transporte semanal a Walmart. Repositorio privado. |
-| ✅ [HugosProductivity](https://github.com/hugofdez10/HugosProductivity) | JavaScript · Web App | Aplicación personal de productividad para tareas, planificación y hábitos. 🔗 [Demo](https://hugosproductivity.netlify.app/) |
-| 👥 F&B Clientes | Web App · Gestión interna | Herramienta privada para organizar clientes, proyectos y seguimiento comercial de F&B Digital Studio. |
+| 🏠 [GestiDomus](https://gestidomus-os.vercel.app/) | Next.js · Supabase · TypeScript | SaaS de gestión inmobiliaria para administrar inmuebles, contratos, pagos, incidencias y recibos. Repositorio privado. |
+| 💈 [Samoset Barbershop](https://github.com/hugofdez10/samoset-barbershop) | Next.js · React · TypeScript | Aplicación web para presentar y gestionar un servicio de barbería dentro de Samoset. Accesso Web (https://samosetbarbershop.vercel.app/)|
+| 🚌 [W&T Walmart Shuttle](https://walmart-shuttle.vercel.app/) | Next.js · Supabase · TypeScript | Sistema de reservas y gestión de plazas para el transporte semanal a Walmart para Enchanted Parks (empresa estadounidense). Repositorio privado. |
+| ✅ [HugosProductivity](https://github.com/hugofdez10/HugosProductivity) | JavaScript · Web App | Aplicación personal de productividad para tareas, planificación y hábitos. |
 | 🌍 [DeustoAir](https://github.com/hugofdez10/DeustoAir) | C · C++ · Cliente-Servidor | Proyecto académico colaborativo para gestionar y consultar datos de calidad del aire. |
 | ♟️ [DeustoChess](https://github.com/hugofdez10/DeustoChess) | Java | Proyecto académico de ajedrez centrado en programación orientada a objetos y lógica de juego. |
 
@@ -79,48 +76,6 @@ Plataforma SaaS para la gestión de propiedades en alquiler.
 
 ---
 
-### 💼 F&B Digital Studio
-
-Estudio digital enfocado en crear páginas web, automatizaciones y soluciones digitales para empresas y negocios locales.
-
-**Servicios y áreas principales:**
-
-- Diseño y desarrollo de páginas web.
-- Creación de landings orientadas a conversión.
-- Automatización de procesos.
-- Formularios y sistemas de captación de clientes.
-- Integración de correo y herramientas externas.
-- Optimización de presencia digital.
-- Desarrollo de soluciones a medida.
-
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Resend · Vercel
-
-🔗 Demo: [fbdigitalstudios.vercel.app](https://fbdigitalstudios.vercel.app/)
-
-💻 Código: [github.com/hugofdez10/F-B-Digital-Studio](https://github.com/hugofdez10/F-B-Digital-Studio)
-
----
-
-### 🇺🇸 SummerStash
-
-Aplicación web para gestionar el dinero durante una experiencia Work & Travel en Estados Unidos.
-
-**Funcionalidades principales:**
-
-- Control de ingresos.
-- Gastos previos al viaje.
-- Gastos diarios en USA.
-- Presupuestos por categoría.
-- Objetivos de ahorro.
-- Dinero reservado para viajes y experiencias.
-- Fondo de emergencia.
-- Dashboard visual y mobile-first.
-
-**Stack:** Next.js · React · TypeScript · Supabase · Tailwind CSS
-
-🔗 Demo: [summerstash.netlify.app](https://summerstash.netlify.app/)
-
----
 
 ### 💈 Samoset Barbershop
 
