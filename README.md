@@ -43,7 +43,7 @@
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
 | 🏠 [GestiDomus](https://gestidomus-os.vercel.app/) | Next.js · Supabase · TypeScript | SaaS de gestión inmobiliaria para administrar inmuebles, contratos, pagos, incidencias y recibos. Repositorio privado. |
-| 💈 [Samoset Barbershop](https://github.com/hugofdez10/samoset-barbershop) | Next.js · React · TypeScript | Aplicación web para presentar y gestionar un servicio de barbería dentro de Samoset. [Web] (https://samosetbarbershop.vercel.app/)|
+| 💈 [Samoset Barbershop](https://github.com/hugofdez10/samoset-barbershop) | Next.js · React · TypeScript | Aplicación web para presentar y gestionar un servicio de barbería dentro de Samoset. [Web](https://samosetbarbershop.vercel.app/)|
 | 🚌 [W&T Walmart Shuttle](https://walmart-shuttle.vercel.app/) | Next.js · Supabase · TypeScript | Sistema de reservas y gestión de plazas para el transporte semanal a Walmart para Enchanted Parks (empresa estadounidense). Repositorio privado. |
 | ✅ [HugosProductivity](https://github.com/hugofdez10/HugosProductivity) | JavaScript · Web App | Aplicación personal de productividad para tareas, planificación y hábitos. |
 | 🌍 [DeustoAir](https://github.com/hugofdez10/DeustoAir) | C · C++ · Cliente-Servidor | Proyecto académico colaborativo para gestionar y consultar datos de calidad del aire. |
@@ -137,24 +137,6 @@ Aplicación web personal de productividad enfocada en organización diaria, plan
 
 ---
 
-### 👥 F&B Clientes
-
-Herramienta privada para gestionar la actividad comercial y los proyectos de F&B Digital Studio.
-
-**Funcionalidades principales:**
-
-- Registro de clientes.
-- Seguimiento de oportunidades.
-- Organización de proyectos.
-- Control del estado de cada trabajo.
-- Centralización de información comercial.
-- Gestión interna del estudio.
-
-**Tipo de proyecto:** Aplicación web interna
-
-🔒 Repositorio privado.
-
----
 
 <h2 align="center">🎓 Proyectos Académicos</h2>
 
