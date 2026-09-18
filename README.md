@@ -42,8 +42,9 @@
 
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
+| 🏘️ [Housing Management System](https://housing-management-system-jade.vercel.app/) | Next.js · Supabase · TypeScript | Plataforma de gestión del alojamiento del personal de temporada de Enchanted Parks (empresa estadounidense): cabañas, residentes, incidencias con fotos, roles e informes. Repositorio privado. |
 | 🏠 [GestiDomus](https://gestidomus-os.vercel.app/) | Next.js · Supabase · TypeScript | SaaS de gestión inmobiliaria para administrar inmuebles, contratos, pagos, incidencias y recibos. Repositorio privado. |
-| 💈 [Samoset Barbershop](https://github.com/hugofdez10/samoset-barbershop) | Next.js · React · TypeScript | Aplicación web para presentar y gestionar un servicio de barbería dentro de Samoset. [Web](https://samosetbarbershop.vercel.app/)|
+| 💈 [Samoset Barbershop](https://github.com/hugofdez10/samoset-barbershop) | Next.js · Supabase · TypeScript | Web de mi servicio de barbería en el alojamiento Samoset (Nueva York): vídeos de trabajos, reservas por WhatsApp y panel de administración. [Web](https://samosetbarbershop.vercel.app/) |
 | 🚌 [W&T Walmart Shuttle](https://walmart-shuttle.vercel.app/) | Next.js · Supabase · TypeScript | Sistema de reservas y gestión de plazas para el transporte semanal a Walmart para Enchanted Parks (empresa estadounidense). Repositorio privado. |
 | ✅ [HugosProductivity](https://github.com/hugofdez10/HugosProductivity) | JavaScript · Web App | Aplicación personal de productividad para tareas, planificación y hábitos. |
 | 🌍 [DeustoAir](https://github.com/hugofdez10/DeustoAir) | C · C++ · Cliente-Servidor | Proyecto académico colaborativo para gestionar y consultar datos de calidad del aire. |
@@ -52,6 +53,37 @@
 ---
 
 <h2 align="center">🧩 Proyectos Web & SaaS</h2>
+
+### 🏘️ Housing Management System · Enchanted Parks
+
+Plataforma web para gestionar el alojamiento del personal de temporada de Enchanted Parks, una empresa estadounidense: cabañas, residentes, mudanzas e incidencias de mantenimiento, cada perfil con su propio acceso.
+
+**Funcionalidades principales:**
+
+- Gestión de alojamientos y cabañas, con capacidad máxima garantizada por la base de datos.
+- Alta de residentes, asignación de cabaña e invitación por correo para que cada residente active su cuenta.
+- Mudanzas entre cabañas con historial.
+- Vista *My Housing* para que cada residente consulte su cabaña y sus compañeros.
+- Incidencias con fotos: el residente las reporta, administración las clasifica y las resuelve con una nota y fotos de la reparación.
+- Informe de ocupación en pantalla y exportable a Excel.
+- Roles (Super Admin, Admin, Resident Assistant, Staff y residente) con menú y permisos según el rol.
+- Directorio de contactos con botones de WhatsApp y llamada.
+- Instalable en el móvil como aplicación.
+
+**Aspectos técnicos:**
+
+- Row Level Security (RLS) en todas las tablas y permisos mínimos por tabla.
+- Fotos en almacenamiento privado, servidas con URLs firmadas que caducan.
+- Esquema de base de datos controlado con más de 50 migraciones SQL versionadas.
+- TypeScript en modo estricto, con tipos generados a partir del esquema.
+
+**Stack:** Next.js · React · TypeScript · Supabase (PostgreSQL, Auth, Storage) · Tailwind CSS · shadcn/ui · Vercel
+
+🔗 Web: [housing-management-system-jade.vercel.app](https://housing-management-system-jade.vercel.app/) (acceso con cuenta)
+
+🔒 Repositorio privado.
+
+---
 
 ### 🏠 GestiDomus
 
@@ -79,19 +111,20 @@ Plataforma SaaS para la gestión de propiedades en alquiler.
 
 ### 💈 Samoset Barbershop
 
-Aplicación web creada para presentar y organizar un servicio de barbería dentro de la comunidad de Samoset.
+Web de mi servicio de barbería en el alojamiento Samoset (Queensbury, Nueva York), creada durante el programa Work & Travel.
 
 **Funcionalidades principales:**
 
-- Presentación del servicio.
-- Información sobre cortes y disponibilidad.
-- Acceso sencillo desde dispositivos móviles.
-- Contacto y gestión de solicitudes.
-- Diseño adaptado a una comunidad internacional.
+- Landing responsive pensada para móvil.
+- Vídeos verticales de mis cortes, editados y optimizados para web.
+- Reserva directa por WhatsApp con el mensaje ya escrito.
+- Servicios, duración y precio.
+- Panel de administración con login para aceptar o rechazar solicitudes de cita.
+- Base de datos con RLS y una restricción que impide aceptar dos citas a la misma hora.
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · Vercel
+**Stack:** Next.js · React · TypeScript · Supabase · Tailwind CSS · Vercel
 
-🔗 Web: [samosetbarbershop.vercel.app](https://samosetbarbershop.vercel.app/)
+🔗 Web: [samosetbarbershop.vercel.app](https://samosetbarbershop.vercel.app/) · Código: [samoset-barbershop](https://github.com/hugofdez10/samoset-barbershop)
 
 ---
 
